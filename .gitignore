@@ -1,0 +1,11 @@
+# 忽略 catkin 工作空间生成的文件夹
+build/
+devel/
+install/
+log/
+
+# 忽略文件
+.catkin_workspace
+*.log
+*.bag
+*.bag.active
